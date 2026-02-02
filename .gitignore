@@ -1,0 +1,7 @@
+# VS IDE compilation file
+bin/
+obj/
+
+# VS backup file using VS history extension
+.vshistory/
+
